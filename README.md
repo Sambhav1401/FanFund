@@ -49,13 +49,6 @@ Then open http://localhost:3000 in your browser.
 
 
 
-### 💰 Razorpay Checkout
-<img width="1918" height="928" alt="Screenshot 2025-07-30 223242" src="https://github.com/user-attachments/assets/c42f8b20-d0bb-42a4-affd-466ffde35e18" />
-
-### ✅ Payment Success Page
-<img width="1919" height="935" alt="Screenshot 2025-07-30 223058" src="https://github.com/user-attachments/assets/94d1d471-53e2-4352-b977-d6ee888a63b6" />
-
-<img width="1919" height="932" alt="Screenshot 2025-07-30 225143" src="https://github.com/user-attachments/assets/102298a9-624e-4e93-bfa3-905c35e6d613" />
 
 
 
@@ -67,6 +60,13 @@ Then open http://localhost:3000 in your browser.
 
 <img width="1913" height="929" alt="Screenshot 2025-07-30 223234" src="https://github.com/user-attachments/assets/4778dbbb-96b9-4742-bca1-63c94e80e370" />
 
+### 💰 Razorpay Checkout
+<img width="1918" height="928" alt="Screenshot 2025-07-30 223242" src="https://github.com/user-attachments/assets/c42f8b20-d0bb-42a4-affd-466ffde35e18" />
+
+### ✅ Payment Success Page
+<img width="1919" height="935" alt="Screenshot 2025-07-30 223058" src="https://github.com/user-attachments/assets/94d1d471-53e2-4352-b977-d6ee888a63b6" />
+
+<img width="1919" height="932" alt="Screenshot 2025-07-30 225143" src="https://github.com/user-attachments/assets/102298a9-624e-4e93-bfa3-905c35e6d613" />
 ### ✅ Learn More page
 
 <img width="1919" height="934" alt="Screenshot 2025-07-30 224841" src="https://github.com/user-attachments/assets/309988fc-9334-48f5-93d7-cc227bd51f76" />
